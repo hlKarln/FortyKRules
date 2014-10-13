@@ -1,0 +1,82 @@
+{
+     "id": "1",
+    "name": "Warhammer 40.000",
+    "version": "V7",
+    "Categories":[
+        {
+            "id": "1",
+            "name": "Specials Rules",
+            "Rules":[
+                {
+                    "id": "1",
+                    "name": "Sans Peur",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "2",
+                    "name": "Force",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "3",
+                    "name": "Course",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "4",
+                    "name": "Guerrier Éternel",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "5",
+                    "name": "Insensible à la douleur",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Psyker Spells",
+            "Rules":[
+                {
+                    "id": "1",
+                    "name": "Bras de Fer",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "2",
+                    "name": "Drain de vie",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "3",
+                    "name": "Endurance",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Weapons Rules",
+            "Rules":[
+                {
+                    "id": "0",
+                    "name": "Missile Antichar",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "1",
+                    "name": "Fusil à Plasma",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                },
+                {
+                    "id": "2",
+                    "name": "Canon Laser",
+                    "Description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed dolor lacus, porta nec ipsum nec, mattis aliquam nunc. Pellentesque ante urna, posuere egestas dictum in, pharetra ac odio. Vestibulum cursus nisl eu euismod imperdiet. Donec tristique odio pulvinar ipsum ultricies pulvinar. Nam eu gravida purus. Sed at varius libero."
+                }
+            ]
+        }
+    ]
+}
+
+
