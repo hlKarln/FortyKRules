@@ -1,0 +1,135 @@
+{
+  "id": "0",
+  "name": "Warhammer 40.000",
+  "version": "V7",
+  "categories": [
+    {
+      "id": "0",
+      "name": "Règles Spéciales",
+      "rules": [
+        {
+          "id": "0",
+          "name": "Contre-Attaque",
+          "description": "Si une unité qui contient au moins 1 figurine avec cette règle spécial est chargée, chaque figurine avec la règle spécial Contre-Attaque de l'unité a +1 Attaque jusqu'à la fin de la phase. <br />Si l'unité chargée était déjà verrouillée en combat, la règle spécial Contre-Attaque n'a aucun effet."
+        },
+        {
+          "id": "1",
+          "name": "Rage",
+          "description": "Lors d'un tour où une figurine avec cette règle spéciale charge au corps à corps, elle gagne +2 Attaques de bonus de charge, au lieu du +1. Une figurine qui fait une charge désordonnée ne reçoit pas le bonus de Rage."
+        },
+        {
+          "id": "2",
+          "name": "Usage Unique / Tir Unique",
+          "description": "Une arme ou une capacité avec cette règle spéciale ne peut être utilisée qu'une seule fois pendant une partie."
+        },
+        {
+          "id": "3",
+          "name": "Rayon",
+          "description": "Une arme avec cette règle spéciale compte toute Valeur de Blindage supérieure à 12 comme étant égale à 12."
+        },
+        {
+          "id": "4",
+          "name": "Il est Invincible",
+          "description": "A la fin de chacun de vos tours, jetez 1D6 pour chacune de vos figurines avec cette règle spéciale qui a moins de PV ou de PC qu'au début de la partie, mais qui n'a pas été détruite ou retirée comme perte. Sur 5+, elle"
+        },
+        {
+          "id": "5",
+          "name": "Vision Nocturne",
+          "description": "Une unité qui contient au moins 1 figurine avec cette règle spécial ignore les effets du Combat Nocturne."
+        },
+        {
+          "id": "6",
+          "name": "Implacable",
+          "description": "Les figurines Implacables peuvent tirer avec des armes d'Artillerie, Lourdes, ou à Salve, en comptant  comme à l'arrêt, même si elles se sont déplacées à la phase de Mouvement précédente. En outre, elles peuvent charger dans le même tour où elles ont tiré avec des armes d'Artillerie, Lourdes, à Salve ou à Tir Rapide."
+        },
+        {
+          "id": "7",
+          "name": "Obstiné",
+          "description": "Losqu'une unité qui contient au moins 1 figurine avec cette règle spéciale effectue un test de Moral ou de Pilonnage, elle ignore tout modificateur négatif au Cd. Une unité qui est à la fois Sans Peur et Obstiné utilise seulement la règles spéciale Sans Peur."
+        },
+        {
+          "id": "8",
+          "name": "Tueur de Monstres",
+          "description": "Une unité qui contient au moins 1 figurine avec cette règle spéciale relance tous ses jets pour Blesser ratés contre les Créatures Monstrueuses."
+        },
+        {
+          "id": "9",
+          "name": "Lacération",
+          "description": "Une figurine avec cette règle spéciale, ou qui attaque avec une arme de Mêlée avec cette règle spéciale, relance les jets pour Blesser ratés au corps à corps.<br />De même, une figurine qui tire avec une arme avec cette règle spéciale relance les jets pour Blesser ratés."
+        },
+        {
+          "id": "10",
+          "name": "Folie Furieuse",
+          "description": "Au début de chaque sous-phase de Combat, une figurine avec cette règle spéciale gagne +1D3 Attaques si le combat auquel elle participe contient plus de figurines ennemies que de figurines amies: comptez toutes les figurines verrouillées dans le combat, pas seulement celles qui sont engagées. Faites un seul jet pour déterminer le nombre d'Attaques bonus que toutes les figurines Folles Furieuses impliquées dans ce combat reçoivent à cette sous-phase. Une figurine en charge désordonée ne reçoit pas le bonus de Folie Furieuse."
+        },
+        {
+          "id": "11",
+          "name": "Esprit de la Machine",
+          "description": "Lors d'un tour où un véhicule avec cette règle spéciale ne met pas les Gaz et n'utilise pas ses fumigène, il peut tirer avec 1 arme de plus que la normal, avec sa Capacité de Tir complete. En outre, cette arme peut tirer, en suivant les règles normales de tir, sur une cible différente des autres armes."
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Pouvoirs Psychiques",
+      "rules": [
+        {
+          "id": "0",
+          "name": "Biomancie - Bras De Fer",
+          "description": "<b>Charge Warp 1</b><br /><i>Bras de Fer</i> est une <b>bénédiction</b> ciblant le Psyker. Tant qu'elle est en jeu, il gagne +3 en Force et en Endurance, et la règle spéciale Concassage."
+        },
+        {
+          "id": "1",
+          "name": "Divination - Pressentiment",
+          "description": "<b>Charge Warp 1</b><br /><i>Pressentiment</i> est une <b>bénédiction</b> ciblant une unité amie à 12\" ou moins. Tant que le pouvoir est en jeu, l'unité ciblée a une sauvegarde invulnérable de 4+."
+        },
+        {
+          "id": "2",
+          "name": "Télépathie - Invisibilité",
+          "description": "<b>Charge Warp 2</b><br /><i>Invisibilité</i> est une <b>bénédiction</b> ciblant une unité amie dans un rayon de 24\". Tant qu'elle est en jeu, les unités ennemies peuvent seulement Tirer au jugé sur l'unité, et ne la touchent au corps à corps que sur des 6 Pour Toucher."
+        },
+        {
+          "id": "3",
+          "name": "Télépathie - Dissimulation",
+          "description": "<b>Charge Warp 1</b><br /><i>Dissimulation</i> est une <b>bénédiction</b> qui affecte le Psyker. Tant que ce pouvoir est en jeu, le Psyker et toutes les figurines amies dans un rayon de 6\" ont la règle spéciale "
+        },
+        {
+          "id": "4",
+          "name": "Démonologie Séraphique - Vortex Funseste",
+          "description": "<b>Charge Warp 3</b><br /><i>Vortex Funseste</i> est une <b>décharge psy</b> ayant le profil ci-dessous. Si le Psyker rate son test Psychique lorsqu'il utilise ce pouvoir, il subit automatiquement les Périls du Warp.<br /><table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Vortex Funeste</b></td><td align='Left' >12\"</td> <td align='Left' >D</td><td align='Left' >1</td><td align='Left' >Assaut 1, Explosion, Vortex</td></tr></table>"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Armes de Tir & de Mêlée",
+      "rules": [
+        {
+          "id": "0",
+          "name": "Fuseur",
+          "description": "<table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Fuseur</b></td><td align='Left' >12\"</td> <td align='Left' >8</td><td align='Left' >1</td><td align='Left' >Assaut 1, Fusion</td></tr></table>"
+        },
+        {
+          "id": "1",
+          "name": "Bolter",
+          "description": "<table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Bolter</b></td><td align='Left' >24\"</td> <td align='Left' >4</td><td align='Left' >5</td><td align='Left' >Tir Rapide</td></tr></table>"
+        },
+        {
+          "id": "2",
+          "name": "Canon Laser",
+          "description": "<table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Canon Laser</b></td><td align='Left' >48\"</td> <td align='Left' >9</td><td align='Left' >2</td><td align='Left' >Lourd 1</td></tr></table>"
+        },
+        {
+          "id": "3",
+          "name": "Gantelet énergétique",
+          "description": "<table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Gantelet énergétique</b></td><td align='Left' >-</td> <td align='Left' >x2</td><td align='Left'>2</td><td align='Left' >Mêlée, Arme de Spécialiste, Encombrant</td></tr></table>"
+        },
+        {
+          "id": "4",
+          "name": "Fusil de Sniper",
+          "description": "<table width='100%' border=1 frame=void rules=rows align='center'><tr> <th></th> <th align='Left' >Portée</th> <th align='Left' >F</th><th align='Left' >PA</th><th align='Left' >Type</th></tr> <tr><td align='Left' ><b>Fusil de Sniper</b></td><td align='Left' >36\"</td> <td align='Left' >X</td><td align='Left' >6</td><td align='Left' >Lourd 1, Sniper</td></tr></table>"
+        }
+      ]
+    }
+  ]
+}
