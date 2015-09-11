@@ -1,7 +1,9 @@
 {
-  "id": "0",
   "name": "Warhammer 40.000",
+  "author": "Karln",
   "version": "V7",
+  "imageUrl": "http://rocketdock.com/images/screenshots/Wh40kBird_Preview-1.png",
+  "lastUpdate": "11-09-2015"
   "categories": [
     {
       "id": "0",
